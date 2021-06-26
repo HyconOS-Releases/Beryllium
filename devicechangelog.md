@@ -1,5 +1,11 @@
 # Changelog for Xiaomi POCO F1 (beryllium)
 
+## HyconOS V3.5 - 26/06/2021
+- Switch to SilverCore 9.3 (ProtonClang)
+- Migrate to Pixel Power HAL
+- Tweak PowerHints a little
+- Updated Vendor blobs
+
 ## HyconOS V3.0 - 23/05/2021
 - Initial OFFICIAL Build
 - Switched to XDKernel
