@@ -1,5 +1,10 @@
 # Changelog for Xiaomi POCO F1 (beryllium)
 
+## HyconOS V4.0 - 15/07/2021
+- Switch to Delta Kernel
+- Upstreamed to linux tag 4.9.275
+- Reworked powerhints (Moar poobg fps lol)
+
 ## HyconOS V3.5 - 26/06/2021
 - Switch to SilverCore 9.3 (ProtonClang)
 - Migrate to Pixel Power HAL
