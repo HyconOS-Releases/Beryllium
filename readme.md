@@ -2,6 +2,8 @@
 
 *DOWNLOAD COUNT BY VERSION BELOW*
 
+[![Github Releases (by Release)](https://img.shields.io/github/downloads/HyconOS-Releases/Beryllium/V4.0/total.svg)](https://GitHub.com/HyconOS-Releases/Beryllium/releases)
+
 [![Github Releases (by Release)](https://img.shields.io/github/downloads/HyconOS-Releases/Beryllium/V3.5/total.svg)](https://GitHub.com/HyconOS-Releases/Beryllium/releases)
 
 [![Github Releases (by Release)](https://img.shields.io/github/downloads/HyconOS-Releases/Beryllium/V3.0/total.svg)](https://GitHub.com/HyconOS-Releases/Beryllium/releases)
